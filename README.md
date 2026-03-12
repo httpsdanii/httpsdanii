@@ -18,9 +18,9 @@ Tecnologias que estou estudando:
 
 ## English:
 Hello, welcome! 👋
-I'm Daniela Catarino Varela, 19 years old, from Baixada Santista (Guarujá-SP), Brazil.
+I'm Daniela Catarino Varela, 19 years old, from (Guarujá-SP), Brazil.
 
-🎓 Information Systems student at Universidade Santa Cecília
+🎓 Information Systems student at Santa Cecília University. 
 
 Technologies I'm currently studying:
 
@@ -31,3 +31,4 @@ Technologies I'm currently studying:
 * 🌐 JavaScript, HTML & CSS
 
 Looking for an internship opportunity as a Jr. Software Developer to apply my knowledge and grow professionally in tech.
+
